@@ -1,28 +1,23 @@
-# Hi There! 👋
+# Hi there 👋
 
-I'm **Aman**, student at **IITM** with a drive for building impactful technology solutions.
+My name is **Aman**, and I'm a student at **IITM** with a drive for building impactful technology solutions.
 
-## 🚀 What I'm Working On
+- 👷 I'm currently building [**HealthNivaran**](https://healthnivaran.in), an AI-powered assistant to make doctors 10x more efficient.
+- 🌱 I shipped **12+ projects** in the last 8 months across AI, healthtech, and automation.
+- 💸 Successfully delivered **2 freelance projects** with 6-figure revenue.
+- 🎓 Proudly selected in **Buildspace Season 5**.
 
-Currently developing [**HealthNivaran**](https://healthnivaran.in) - an AI-powered companion designed to make doctors 10x more efficient in their daily practice. This project combines my passion for healthcare innovation with cutting-edge AI technology. Our mission: make healthcare more accessible, secure, and intelligent.
+## 🤝 Let's Collaborate!
 
-## 📊 Recent Achievements
+I'm always looking to work with founders, hackers, and makers who love building products fast. 
+If you're someone who likes turning ideas into reality, let’s chat!
 
-- 🌟 **12 projects shipped** in the last 8 months  
-- 🎓 Selected in **Buildspace Season 5**  
-- 💸 Delivered **2 high-value freelance projects** with 6-figure revenue impact  
-- ⏩ Continuously building, learning, and shipping at a rapid pace
-- 🎓 Ws a part of **Buildspace Season 5**  
+### 📞 Contact Me
 
-## 🤝 Let's Collaborate
-
-I'm always looking to connect with fellow builders and makers who share the same passion for creating and shipping amazing products. If you're someone who gets excited about turning ideas into reality, let's talk!
-
-## 📞 Get in Touch
-
-- 📧 **Email**: amanpandit1406@gmail.com  
-- 🕊️ **X**: [DM me](https://x.com/_aman045)  
+- 📧 Email: [amanpandit1406@gmail.com](mailto:amanpandit1406@gmail.com)
+- 🕊️ X/Twitter: [@_aman045](https://x.com/_aman045)
 
 ---
 
-Thanks for stopping by! Feel free to check out my pinned projects and star anything you find interesting ✨
+Thanks for dropping by! 
+Feel free to check out my projects and leave a ⭐ if something inspires you!
