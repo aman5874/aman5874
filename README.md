@@ -12,7 +12,5 @@ My name is **Aman**, and I'm a student at **IITM** with a drive for building imp
 - 📧 Email: [amanpandit1406@gmail.com](mailto:amanpandit1406@gmail.com)
 - 🕊️ X/Twitter: [@_aman045](https://x.com/_aman045)
 
----
-
 Thanks for dropping by! 
 Feel free to check out my projects and leave a ⭐ if something inspires you!
