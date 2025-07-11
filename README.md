@@ -7,11 +7,6 @@ My name is **Aman**, and I'm a student at **IITM** with a drive for building imp
 - 💸 Successfully delivered **2 freelance projects** with 6-figure revenue.
 - 🎓 Proudly selected in **Buildspace Season 5**.
 
-## 🤝 Let's Collaborate!
-
-I'm always looking to work with founders, hackers, and makers who love building products fast. 
-If you're someone who likes turning ideas into reality, let’s chat!
-
 ### 📞 Contact Me
 
 - 📧 Email: [amanpandit1406@gmail.com](mailto:amanpandit1406@gmail.com)
