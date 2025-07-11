@@ -4,8 +4,7 @@ My name is **Aman**, and I'm a student at **IITM** with a drive for building imp
 
 - 👷 I'm currently building [**HealthNivaran**](https://healthnivaran.in), an AI-powered assistant to make doctors 10x more efficient.
 - 🌱 I shipped **12+ projects** in the last 8 months across AI, healthtech, and automation.
-- 💸 Successfully delivered **2 freelance projects** with 6-figure revenue.
-- 🎓 Proudly selected in **Buildspace Season 5**.
+- 🎓 Part of **Buildspace Season 5**.
 
 ### 📞 Contact Me
 
